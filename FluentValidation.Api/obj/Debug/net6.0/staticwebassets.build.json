@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "cvXOOYGX3JG0ooqZhxBTRMn6rymv03DqY/mHpBNBuro=",
+  "Source": "FluentValidation.Api",
+  "BasePath": "_content/FluentValidation.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

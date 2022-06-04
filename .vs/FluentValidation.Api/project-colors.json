@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "720d190a-cd70-4770-9110-84e979d566ba": {
+      "ProjectGuid": "720d190a-cd70-4770-9110-84e979d566ba",
+      "DisplayName": "FluentValidation.Api",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
